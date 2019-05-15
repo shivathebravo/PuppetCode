@@ -1,5 +1,5 @@
 # PuppetCode
-Puppet code examples
+Puppet code examples 
  Node : Anindividual server or device managed by Puppet
  Resources: Single units of configuration in puppet( built in resource like file and system users)
  Class: A collection of puppet code that makes sense as a logical group
