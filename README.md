@@ -1,0 +1,2 @@
+# PuppetCode
+Puppet code examples
