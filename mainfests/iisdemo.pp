@@ -18,7 +18,7 @@
     require         => File['minimal'],
     bindings        => [
       {
-        'bindinginformation' => "*:8888:${facts['fqdn']}",
+        'bindinginformation' => "*:8087:",
         'protocol'           => 'http',
       },
     ],
