@@ -36,3 +36,6 @@
   }
 
 }
+
+
+#https://www.linode.com/docs/websites/puppet/manage-and-automate-systems-configuration-with-puppet/
