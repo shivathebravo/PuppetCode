@@ -1,7 +1,6 @@
-node default{
-file { 'c:\temp\hello.txt':  
+
+file { 'c:\\temp1\\hello.txt':  
   ensure  => file,
-  content => "hello, world\n",
-}
+  content => "hello, world from shiva\n",
 }
 
