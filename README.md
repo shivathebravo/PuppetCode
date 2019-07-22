@@ -7,5 +7,7 @@ Puppet code examples
  Profile: A class that defines a specific set of configurtaion
  Role: A class that defines the business reole of a node
  
+ This is test
+ 
  
  
