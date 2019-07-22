@@ -1,5 +1,5 @@
 
-file { 'c:\\shivaaaaaatemp':  
+file { 'c:/shivaaaaaatemp':  
   ensure  => directory,
 }
 
